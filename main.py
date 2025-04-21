@@ -8,6 +8,7 @@ from PIL import Image, ImageTk
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from matplotlib.figure import Figure
 import numpy as np
+import pandas as pnds
 
 # -------------- CONFIG ----------------
 # Determine where we are running from:
